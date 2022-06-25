@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_home">
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.satria.uas.Fragment.BerandaFragment"
+        android:label="Beranda"
+        tools:layout="@layout/fragment_beranda" />
+
+    <activity
+        android:id="@+id/nav_barang"
+        android:name="com.satria.uas.Activities.RekapActivity"
+        android:label="Daftar Barang"
+        tools:layout="@layout/activity_rekap" />
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.satria.uas.Fragment.Profile"
+        android:label="Keilmuan"
+        tools:layout="@layout/fragment_profile" />
+    <activity
+        android:id="@+id/nav_chatbot"
+        android:name="com.satria.uas.Activities.ChatbotActivity"
+        android:label="chatbot"
+        tools:layout="@layout/fragment_chatbot" />
+
+</navigation>

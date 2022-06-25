@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">bigProject</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cara_pakai_aplikasi">
+        1. Untuk melihat daftar barang anda dapat mengeklik menu <b>barang</b> . \n
+        2. Buka menu profile untuk melihat data diri
+    </string>
+    <string name="tentangprodi">D4 Teknik Informatika merupakan program studi pada Politeknik Harapan Bersama yang mendapatkan SK Pendirian pada tanggal 13 Desember 2012 dengan Nomor SK Pendirian 420/E/0/2012. Diharapkan lulusan Program Studi D4 Teknik Informatika mampu memanfaatkan perangkat lunak dan perangkat keras di berbagai bidang kehidupan serta mampu melaksanakan pekerjaan yang kompleks berdasarkan kemampuan profesional di bidang informatika.</string>
+    <string name="desain">Desainer grafis membuat dan mengkombinasikan simbol, gambar, dan teks untuk membentuk representasi gagasan dan pesan secara visual.</string>
+
+
+</resources>
